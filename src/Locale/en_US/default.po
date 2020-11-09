@@ -1,0 +1,997 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2019-11-22 14:52+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:499
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:181
+#: Http/Middleware/CsrfProtectionMiddleware.php:227
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:185
+#: Http/Middleware/CsrfProtectionMiddleware.php:231
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:300
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:302
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2665
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2686
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:89
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:91
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:93
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:95
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:87
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154
+#: I18n/RelativeTimeFormatter.php:332
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155
+#: I18n/RelativeTimeFormatter.php:333
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156
+#: I18n/RelativeTimeFormatter.php:334
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:157
+#: I18n/RelativeTimeFormatter.php:335
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171
+#: I18n/RelativeTimeFormatter.php:346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172
+#: I18n/RelativeTimeFormatter.php:347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173
+#: I18n/RelativeTimeFormatter.php:348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174
+#: I18n/RelativeTimeFormatter.php:349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47
+#: I18n/RelativeTimeFormatter.php:126
+#: I18n/RelativeTimeFormatter.php:316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51
+#: I18n/RelativeTimeFormatter.php:129
+#: I18n/RelativeTimeFormatter.php:319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57
+#: I18n/RelativeTimeFormatter.php:132
+#: I18n/RelativeTimeFormatter.php:322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59
+#: I18n/RelativeTimeFormatter.php:135
+#: I18n/RelativeTimeFormatter.php:325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64
+#: I18n/RelativeTimeFormatter.php:138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68
+#: I18n/RelativeTimeFormatter.php:141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72
+#: I18n/RelativeTimeFormatter.php:144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:56
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:103
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:127
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:933
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:2436
+#: View/Form/ArrayContext.php:225
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:2458
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:2608
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1107
+msgid "Edit {0}"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1109
+msgid "New {0}"
+msgstr ""
+
+#: View/Helper/FormHelper.php:2028
+msgid "Submit"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:818
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:539
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "December"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: View/Helper/PaginatorHelper.php:1270
+msgid "View"
+msgstr ""
+
+msgid "teststr"
+msgstr "testStr"
+
+msgid "menu1"
+msgstr "公司信息变更"
+
+msgid "menu2"
+msgstr "建立新伙伴"
+
+msgid "menu3"
+msgstr "搜寻应试者"
+
+msgid "menu4"
+msgstr "检验日志"
+
+msgid "menu5"
+msgstr "PDF输出日志"
+
+msgid "menu6"
+msgstr "检验类型ROW数据"
+
+msgid "menu7"
+msgstr "請求書一覧"
+
+msgid "menu8"
+msgstr "发票清单"
+
+msgid "menu9"
+msgstr "试用编号"
+
+msgid "menu10"
+msgstr "资讯中心"
+
+msgid "menu11"
+msgstr "候选人登录状态"
+
+msgid "menu12"
+msgstr "管理员登录状态"
+
+msgid "menu13"
+msgstr "公司名单"
+
+msgid "admin"
+msgstr "管理画面"
+
+msgid "logout"
+msgstr "SIGN OUT"
+
+msgid "company_name"
+msgstr "公司名称"
+
+
+msgid "buy_license"
+msgstr "购买的许可证数量"
+
+
+msgid "sale_license"
+msgstr "可用许可证数"
+
+msgid "examinees"
+msgstr "考生人数"
+
+
+msgid "syori"
+msgstr "工序数"
+
+msgid "zan"
+msgstr "剩余的"
+
+msgid "kinou"
+msgstr "功能介绍"
+
+msgid "partner"
+msgstr "合作伙伴"
+
+msgid "edit"
+msgstr "更新资料"
+
+msgid "temp"
+msgstr "附加"
+
+msgid "filter"
+msgstr "筛选"
+
+msgid "search"
+msgstr "搜寻"
+
+
+msgid "partnerlist"
+msgstr "合作伙伴名单"
+
+
+msgid "login_text1"
+msgstr "推荐操作系统・推荐浏览器"
+msgid "login_text2"
+msgstr "Javascript・cookie的设定"
+
+
+msgid "login_message1"
+msgstr "为了安全舒适地使用，推荐使用下列操作系统及下列版本的浏览器。"
+
+msgid "login_message2"
+msgstr "如果使用推荐以外的因特网浏览器，或即使使用推荐的因特网浏览器也可能因客户设定的原因，不能使用或不能准确表示。"
+
+msgid "login_message3"
+msgstr "浏览器设定时让Javascript的设定有效。"
+
+msgid "login_message4"
+msgstr "Javascript的设定无效时，有可能不能正确工作或不能正确表示。"
+
+msgid "login_message5"
+msgstr "另外，有一部分使用cookie的内容。请和Javascript一样设定有效。"
+
+msgid "login_message3"
+msgstr "<b>使用Windows时</b>"
+msgid "login_message4"
+msgstr "推荐操作系统：Windows７以上"
+msgid "login_message5"
+msgstr "Microsoft InternetExplorer10以上"
+msgid "login_message6"
+msgstr "Mozilla FireFox 最新版"
+msgid "login_message7"
+msgstr "Google Chrome最新版"
+msgid "login_message8"
+msgstr "Safari最新版"
+
+msgid "gamen"
+msgstr "萤幕"
+
+msgid "hissu"
+msgstr "必填项"
+
+msgid "login_id"
+msgstr "ID"
+
+msgid "password"
+msgstr "密码"
+
+msgid "yuubin"
+msgstr "邮递区号"
+msgid "todofuken"
+msgstr "地区"
+
+msgid "jyusyo1"
+msgstr "地址1"
+msgid "jyusyo2"
+msgstr "地址2"
+msgid "denwabango"
+msgstr "电话号码"
+msgid "faxbango"
+msgstr "传真号码"
+msgid "mousikomikensa"
+msgstr "应用检查按钮"
+msgid "riyousuru"
+msgstr "使用"
+msgid "tanto1"
+msgstr "负责人"
+msgid "tanto1address"
+msgstr "联系人电子邮件地址"
+
+msgid "tanto2"
+msgstr "负责人2"
+msgid "tanto2address"
+msgstr "联系人电子邮件地址2"
+msgid "tantotel"
+msgstr "联系人电话号码"
+msgid "kanrisystem"
+msgstr "管理系统"
+msgid "koudoukatiyousomei"
+msgstr "动作值元素名称设置"
+msgid "yousomeikakunin"
+msgstr "检查元素名称"
+msgid "close"
+msgstr "关门"
+msgid "regist"
+msgstr "报名"
+
+
+msgid "hankakueisu4"
+msgstr "请输入至少4个单字节字母数字字符。"
+
+msgid "hankakueisu"
+msgstr "请输入字母数字字符。"
+msgid "hankaku"
+msgstr "请输入半角。"
+msgid "hankakusu"
+msgstr "请输入单字节数字。"
+
+msgid "message1"
+msgstr "用于更改操作值Excel下载中使用的元素名称。"
+
+msgid "message2"
+msgstr "输入您要注册许可证的检查次数。"
+msgid "message3"
+msgstr "会员自动注册时，请选择PDF输出。"
+msgid "pdfkakunin"
+msgstr "查看PDF"
+
+msgid "confirmRegist"
+msgstr "注册以上内容。你确定吗"
+
+
+msgid "partnerRegistOK"
+msgstr "您已成功注册您的合作伙伴信息。"
+
+msgid "partnerEditOK"
+msgstr "合作伙伴信息已成功更新。"
+
+msgid "partnerErrMSG1"
+msgstr "请输入您的公司名称。"
+msgid "partnerErrMSG2"
+msgstr "请输入您的ID。"
+msgid "partnerErrMSG3"
+msgstr "已经使用了相同的ID。"
+
+msgid "partnerErrMSG4"
+msgstr "尚未输入负责人的姓名。"
+
+msgid "partnerErrMSG5"
+msgstr "联系人地址尚未输入。"
+
+msgid "partnerErrMSG6"
+msgstr "联系人地址的格式不正确。"
+msgid "partnerErrMSG7"
+msgstr "电话号码不正确。"
+msgid "partnerErrMSG7"
+msgstr "传真号码不正确。"
+msgid "partnerErrMSG9"
+msgstr "联系人地址2的格式不正确。"
+
+msgid "partnerErrMSG10"
+msgstr "联系人的电话号码格式不正确。"
+
+
+msgid "partnerErrMSG11"
+msgstr "没有输入密码。"
+
+
+msgid "registdate"
+msgstr "报名日期"
+
+
+msgid "torokukigyoumei"
+msgstr "注册公司名称"
+msgid "testgata"
+msgstr "测试类型"
+msgid "status"
+msgstr "现况"
+msgid "tourokunitiji"
+msgstr "注册日期和时间"
+
+
+msgid "mae50"
+msgstr "前50"
+msgid "tugi50"
+msgstr "下50个"
+
+
+msgid "menu4sub1"
+msgstr "注册给合作伙伴的检验许可证数量"
+msgid "menu4sub2"
+msgstr "客户许可证注册数量"
+
+msgid "menu7sub1"
+msgstr "发票清单"
+msgid "menu7sub2"
+msgstr "发票创建"
+msgid "menu7sub3"
+msgstr "开票"
+
+
+msgid "billNumber"
+msgstr "发票号码"
+
+msgid "senddate"
+msgstr "发行日期"
+msgid "kenmei"
+msgstr "主题"
+msgid "billMoney"
+msgstr "收费金额"
+
+msgid "nouhinsyo"
+msgstr "交货单"
+msgid "seikyusyo"
+msgstr "月结单"
+msgid "sakujyo"
+msgstr "删掉"
+msgid "menu7CreateMessage"
+msgstr "请选择发票目的地。"
+msgid "menu7CreateMessage2"
+msgstr "请选择考试日期"
+msgid "menu7CreateMessage3"
+msgstr "请选择一个合作伙伴公司。"
+msgid "menu7CreateMessage4"
+msgstr "合作公司"
+msgid "menu7CreateMessage5"
+msgstr "客户公司名称"
+msgid "menu7CreateMessage6"
+msgstr "检验名称"
+
+msgid "menu7CreateMessage4Text"
+msgstr "请输入要搜索的合作伙伴公司的名称。"
+msgid "menu7CreateMessage5Text"
+msgstr "输入要搜索的客户公司名称。"
+msgid "menu7CreateMessage6Text"
+msgstr "输入要搜索的搜索名称。"
+
+
+msgid "kigyouate"
+msgstr "到公司"
+msgid "kokyakuate"
+msgstr "致客户"
+
+msgid "kensakujyo"
+msgstr "已刪除"
+msgid "kentuika"
+msgstr "新增"
+
+msgid "kensamei"
+msgstr "检验名称"
+
+msgid "kata"
+msgstr "型式"
+
+msgid "kino"
+msgstr "功能介绍"
+
+msgid "csvdownload"
+msgstr "CSV下载"
+
+msgid "customerlist"
+msgstr "客户名单"
+
+msgid "kensasyubetsu"
+msgstr "检验类型"
+
+
+msgid "pmenu1"
+msgstr "公司信息变更"
+
+msgid "pmenu2"
+msgstr "新客户注册"
+msgid "pmenu2Edit"
+msgstr "客户更新"
+
+
+msgid "pmenu3"
+msgstr "资料下载"
+
+msgid "pmenu4"
+msgstr "注册PDF徽标图片"
+
+msgid "pmenu5"
+msgstr "公司登记表"
+
+msgid "pmenu6"
+msgstr "检验申请费"
+
+msgid "pmenu7"
+msgstr "检验申请历史"
+
+msgid "pmenu8"
+msgstr "确认案例数"
+
+msgid "tempfilelist"
+msgstr "附件清单"
+
+msgid "filetemp"
+msgstr "文件附件"
+
+
+msgid "filename"
+msgstr "档案名称"
+
+msgid "checkdelete"
+msgstr "删除选中的项目"
+
+msgid "size"
+msgstr "尺码"
+
+msgid "TempDeleteMsg"
+msgstr "删除附件。你确定吗"
+
+msgid "tempFileOK"
+msgstr "附件已删除。"
+
+msgid "tempFileNG"
+msgstr "删除附件失败。"
+
+msgid "TempDeleteAllMsg"
+msgstr "批量删除附件。你确定吗"
+
+msgid "fileupload"
+msgstr "文件上传"
+
+msgid "tempfileuploadOK"
+msgstr "文件上传成功。"
+
+msgid "tempfileuploadNG"
+msgstr "文件上传失败。"
+
+msgid "customerImage"
+msgstr "客户画面"
+
+
+msgid "partnerEditConfirm"
+msgstr "更新公司信息。你确定吗"
+
+msgid "jyukensyakeiko"
+msgstr "考试倾向确认功能"
+
+
+msgid "csvupload"
+msgstr "CSV上传按钮"
+
+
+msgid "canuse"
+msgstr "使用"
+
+msgid "cantuse"
+msgstr "不要使用"
+
+msgid "pdfbutton"
+msgstr "PDF按钮"
+
+msgid "pdfmasterstatus"
+msgstr "PDF重量大师"
+
+msgid "excelmasterstatus"
+msgstr "Excel体重大师"
+
+msgid "cstestbtn"
+msgstr "检查申请按钮"
+
+msgid "ssltype"
+msgstr "SSL设定"
+
+msgid "logoImage"
+msgstr "徽标图片"
+
+msgid "logoImageText"
+msgstr "宽度：240像素，高度：80像素，文件大小：约10 KB"
+
+
+msgid "modoru"
+msgstr "回去"
+
+
+msgid "privacy"
+msgstr "私隐政策<br />显示公司名称"
+
+
+msgid "privacytext"
+msgstr "使用公司名称"
+
+msgid "privacytextdefault"
+msgstr "株式会社イノベーションゲート"
+
+msgid "privacyexplain"
+msgstr "※设置隐私政策中使用的公司名称。"
+
+msgid "busymei"
+msgstr "部门名称"
+
+msgid "renrakusaki1"
+msgstr "联系1"
+
+msgid "renrakusaki2"
+msgstr "联系2"
+
+msgid "customerRegistConfirm"
+msgstr "注册新客户。你确定吗"
+
+msgid "customerRegistOK"
+msgstr "新客户注册成功"
+
+msgid "customerRegistNG"
+msgstr "新客户注册失败"
+
+msgid "pdflogodelete"
+msgstr "删除PDF徽标图像"
+
+msgid "pdflogoRegistOK"
+msgstr "PDF徽标图像注册成功。"
+
+msgid "pdflogoRegistNG"
+msgstr "PDF徽标图像注册失败。"
+
+
+msgid "pdflogoError1"
+msgstr "未选择PDF徽标图像注册"
+
+msgid "pdflogoError2"
+msgstr "只能注册图像"
+
+msgid "pdflogodeleteText"
+msgstr "您确定要删除PDF徽标图像吗？"
+
+msgid "pdflogoDeleteOK"
+msgstr "删除的PDF徽标图像"
+
+msgid "pdflogoText1"
+msgstr "▼注册的PDF"
+
+msgid "pmenu5Text"
+msgstr "在公司注册表格中，您可以设置是否在公司方面对注册客户进行身份验证。"
+
+
+msgid "pmenu5Title2"
+msgstr "手动上传"
+
+msgid "pmenu5Text2"
+msgstr "请上传电子邮件附带的手册。"
+
+msgid "pmenu5Text3"
+msgstr "请仅上传PDF文件。"
+
+
+
+msgid "pmenu5Text4"
+msgstr "检验系统手册"
+
+
+msgid "pmenu5Text5"
+msgstr "解释检查结果的手册"
+
+msgid "pmenu5Text6"
+msgstr "手动设置检查结果记录"
+
+
+msgid "pmenu5pdf1"
+msgstr "手册下载以了解检查系统"
+
+msgid "pmenu5pdf2"
+msgstr "手册下载以检查结果的说明"
+
+
+msgid "pmenu5Text7"
+msgstr "手动发送日期指定以解释检查结果"
+
+
+msgid "send_type1"
+msgstr "未指定"
+
+msgid "send_type2"
+msgstr "3天后交货"
+
+
+msgid "pmenu5Text8"
+msgstr "做加权"
+
+msgid "heikin"
+msgstr "平均分数"
+
+msgid "hyojyunhensa"
+msgstr "标准偏差值"
+
+msgid "pmenu5Text9"
+msgstr "显示用于您公司的公司注册表格的URL /链接标记。请使用A或B。"
+
+msgid "pmenu5Text10"
+msgstr "从下面的URL，将显示您的公司注册表格。"
+
+msgid "pmenu5Text11"
+msgstr "公司注册表格链接"
+
+
+msgid "pmenu5Text12"
+msgstr "生成公司注册表格链接标签。它将在您的网站上使用。"
+
+msgid "pmenu5Text13"
+msgstr "注册检查结果系统/手册。你确定吗"
+
+msgid "manual_registOK"
+msgstr "检查结果是手动设置的。"
+
+msgid "manual_registNG"
+msgstr "手动设置检查结果失败。"
+
+msgid "manual_uploadNG"
+msgstr "上传文件失败。"
+
+msgid "syokika"
+msgstr "初始化"
+
+msgid "deletemanualconf"
+msgstr "删除注册的手册。你确定吗"
+
+msgid "manual_initialOK"
+msgstr "注册手册已成功初始化。"
+
+msgid "manual_initialNG"
+msgstr "初始化注册手册失败。"
+
+
+
+msgid "weight_registconf"
+msgstr "注册权重。你确定吗"
+
+msgid "weight_registOK"
+msgstr "砝码已成功注册。"
+
+msgid "weight_registNG"
+msgstr "重量注册失败。"
+
+
+msgid "pmenu6th1"
+msgstr "使用方法"
+
+msgid "pmenu6th2"
+msgstr "检验类型"
+
+msgid "pmenu6th3"
+msgstr "显示名称"
+
+msgid "pmenu6th4"
+msgstr "金额（含结果PDF /不含税）"
+
+
+msgid "pmenu6_registConf"
+msgstr "注册检查申请费。你确定吗"
+
+
+msgid "pmenu6Text1"
+msgstr "检查的数据将是有效的。"
+
+
+msgid "pmenu6_registOK"
+msgstr "检验申请费数据已成功更新。"
+
+msgid "pmenu6_registNG"
+msgstr "无法更新检查申请费用数据。"
+
+
+
+msgid "customerEditConfirm"
+msgstr "更新客户。你确定吗"
+
+msgid "customerEditOK"
+msgstr "客户更新成功"
+
+msgid "customerEditNG"
+msgstr "客户更新失败"
+
+
+msgid "logodelete"
+msgstr "删除徽标图片"
+
+msgid "sakujyoText"
+msgstr "删除客户数据。你确定吗"
+
+msgid "partnerDeleteOK"
+msgstr "客户数据已成功删除。"
+
+msgid "partnerDeleteNG"
+msgstr "删除客户数据失败。"
+
+msgid "examlist"
+msgstr "检查清单"
+
+msgid "hakkou"
+msgstr "发行人编号"
+
+msgid "mijyuken"
+msgstr "未经审查"

@@ -1,0 +1,1088 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2019-11-22 14:52+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:499
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:181
+#: Http/Middleware/CsrfProtectionMiddleware.php:227
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:185
+#: Http/Middleware/CsrfProtectionMiddleware.php:231
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:300
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:302
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2665
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2686
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:89
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:91
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:93
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:95
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:87
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154
+#: I18n/RelativeTimeFormatter.php:332
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155
+#: I18n/RelativeTimeFormatter.php:333
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156
+#: I18n/RelativeTimeFormatter.php:334
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:157
+#: I18n/RelativeTimeFormatter.php:335
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171
+#: I18n/RelativeTimeFormatter.php:346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172
+#: I18n/RelativeTimeFormatter.php:347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173
+#: I18n/RelativeTimeFormatter.php:348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174
+#: I18n/RelativeTimeFormatter.php:349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47
+#: I18n/RelativeTimeFormatter.php:126
+#: I18n/RelativeTimeFormatter.php:316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51
+#: I18n/RelativeTimeFormatter.php:129
+#: I18n/RelativeTimeFormatter.php:319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57
+#: I18n/RelativeTimeFormatter.php:132
+#: I18n/RelativeTimeFormatter.php:322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59
+#: I18n/RelativeTimeFormatter.php:135
+#: I18n/RelativeTimeFormatter.php:325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64
+#: I18n/RelativeTimeFormatter.php:138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68
+#: I18n/RelativeTimeFormatter.php:141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72
+#: I18n/RelativeTimeFormatter.php:144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:56
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:103
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:127
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:933
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:2436
+#: View/Form/ArrayContext.php:225
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:2458
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:2608
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1107
+msgid "Edit {0}"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1109
+msgid "New {0}"
+msgstr ""
+
+#: View/Helper/FormHelper.php:2028
+msgid "Submit"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:818
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:539
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "December"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: View/Helper/PaginatorHelper.php:1270
+msgid "View"
+msgstr ""
+
+msgid "menu1"
+msgstr "企業情報変更"
+
+msgid "menu2"
+msgstr "新規パートナ登録"
+
+msgid "menu3"
+msgstr "受検者検索"
+
+msgid "menu4"
+msgstr "検査ログ"
+
+msgid "menu5"
+msgstr "PDF出力ログ"
+
+msgid "menu6"
+msgstr "検査種別ROWデータ"
+
+msgid "menu7"
+msgstr "請求書一覧"
+
+msgid "menu8"
+msgstr "ライセンス一覧"
+
+msgid "menu9"
+msgstr "トライアルID"
+
+msgid "menu10"
+msgstr "お知らせ情報"
+
+msgid "menu11"
+msgstr "受検者ログイン状況"
+
+msgid "menu12"
+msgstr "管理者ログイン状況"
+
+msgid "menu13"
+msgstr "企業一覧"
+
+msgid "admin"
+msgstr "管理画面"
+
+msgid "logout"
+msgstr "サインアウト"
+
+msgid "company_name"
+msgstr "企業名"
+
+msgid "buy_license"
+msgstr "購入ライセンス数"
+
+msgid "sale_license"
+msgstr "販売可能ライセンス数"
+
+msgid "examinees"
+msgstr "受検者数"
+
+msgid "syori"
+msgstr "処理数"
+
+msgid "zan"
+msgstr "残数"
+
+msgid "kinou"
+msgstr "機能"
+
+msgid "partner"
+msgstr "パートナー"
+
+msgid "edit"
+msgstr "更新"
+
+msgid "temp"
+msgstr "添付"
+
+msgid "filter"
+msgstr "フィルタリング"
+
+
+msgid "search"
+msgstr "検索"
+
+msgid "partnerlist"
+msgstr "パートナー一覧"
+
+msgid "login_text1"
+msgstr "推奨OS・推奨ブラウザ"
+msgid "login_text2"
+msgstr "Javascript・cookieの設定"
+
+msgid "login_message1"
+msgstr "安全で快適にご利用いただくために、下記OSと下記バージョンのブラウザのご利用をお勧めいたします。"
+
+msgid "login_message2"
+msgstr "推奨ウェブブラウザ以外でのご利用や、推奨ウェブブラウザでもお客さまの設定によっては、ご利用できない場合や正しく表示されない場合があります。"
+
+msgid "login_message3"
+msgstr "ブラウザ設定でJavascriptの設定を有効にしてください。"
+
+msgid "login_message4"
+msgstr "Javascriptの設定を無効にされている場合、正しく機能しない、もしくは正しく表示されないことがあります。"
+
+msgid "login_message5"
+msgstr "また、一部cookieを利用したコンテンツがございます。Javascript同様設定を有効にしてください。"
+
+
+msgid "login_message3"
+msgstr "<b>Windowsをお使いの場合</b>"
+msgid "login_message4"
+msgstr "推奨OS：Windows７以上"
+msgid "login_message5"
+msgstr "Microsoft InternetExplorer10以上"
+msgid "login_message6"
+msgstr "Mozilla FireFox 最新版"
+msgid "login_message7"
+msgstr "Google Chrome最新版"
+msgid "login_message8"
+msgstr "Safari最新版"
+
+msgid "gamen"
+msgstr "画面"
+
+msgid "hissu"
+msgstr "必須"
+
+msgid "login_id"
+msgstr "ID"
+
+msgid "password"
+msgstr "パスワード"
+
+msgid "yuubin"
+msgstr "郵便番号"
+msgid "todofuken"
+msgstr "都道府県"
+
+msgid "jyusyo1"
+msgstr "住所1"
+msgid "jyusyo2"
+msgstr "住所2"
+msgid "denwabango"
+msgstr "電話番号"
+msgid "faxbango"
+msgstr "FAX番号"
+msgid "mousikomikensa"
+msgstr "申込検査ボタン"
+msgid "riyousuru"
+msgstr "利用する"
+msgid "tanto1"
+msgstr "担当者氏名"
+msgid "tanto1address"
+msgstr "担当者アドレス"
+
+msgid "tanto2"
+msgstr "担当者氏名2"
+msgid "tanto2address"
+msgstr "担当者アドレス2"
+msgid "tantotel"
+msgstr "担当者連絡先電話番号"
+msgid "kanrisystem"
+msgstr "管理システム"
+msgid "koudoukatiyousomei"
+msgstr "行動価値用要素名設定"
+msgid "yousomeikakunin"
+msgstr "要素名確認"
+msgid "close"
+msgstr "閉じる"
+msgid "regist"
+msgstr "登録"
+
+msgid "hankakueisu4"
+msgstr "半角英数字、４文字以上で入力してください。"
+
+msgid "hankakueisu"
+msgstr "半角英数字で入力してください。"
+msgid "hankaku"
+msgstr "半角で入力してください。"
+msgid "hankakusu"
+msgstr "半角数字で入力してください。"
+
+msgid "message1"
+msgstr "行動価値エクセルダウンロードで利用する要素名を変更する際に利用します。"
+
+msgid "message2"
+msgstr "ライセンスを登録する検査数を入力してください。"
+msgid "message3"
+msgstr "会員自動登録の際に出力されるPDFを選択してください。"
+msgid "pdfkakunin"
+msgstr "PDF確認"
+
+
+msgid "confirmRegist"
+msgstr "上記内容で登録を行います。よろしいですか？"
+
+
+msgid "partnerRegistOK"
+msgstr "パートナー情報の登録に成功しました。"
+msgid "partnerErrMSG1"
+msgstr "企業名を入力してください。"
+msgid "partnerErrMSG2"
+msgstr "IDを入力してください。"
+msgid "partnerErrMSG3"
+msgstr "既に同じIDが利用されています。"
+
+msgid "partnerErrMSG4"
+msgstr "担当者氏名が入力されていません。"
+
+msgid "partnerEditOK"
+msgstr "パートナー情報の更新に成功しました。"
+
+
+msgid "partnerErrMSG5"
+msgstr "担当者アドレスが入力されていません。"
+msgid "partnerErrMSG6"
+msgstr "担当者アドレスの書式に誤りがあります。"
+msgid "partnerErrMSG7"
+msgstr "電話番号に誤りがあります。"
+msgid "partnerErrMSG8"
+msgstr "FAX番号に誤りがあります。"
+msgid "partnerErrMSG9"
+msgstr "担当者アドレス2の書式に誤りがあります。"
+msgid "partnerErrMSG10"
+msgstr "担当者連絡先電話番号の書式に誤りがあります。"
+
+msgid "partnerErrMSG11"
+msgstr "パスワードが入力されていません。"
+
+
+msgid "registdate"
+msgstr "登録日"
+
+
+msgid "torokukigyoumei"
+msgstr "登録企業名"
+msgid "testgata"
+msgstr "テスト型"
+msgid "status"
+msgstr "ステータス"
+msgid "tourokunitiji"
+msgstr "登録日時"
+
+msgid "mae50"
+msgstr "前の50件"
+msgid "tugi50"
+msgstr "次の50件"
+
+msgid "menu4sub1"
+msgstr "パートナへの検査ライセンス登録数"
+msgid "menu4sub2"
+msgstr "顧客ライセンス登録数"
+
+msgid "menu7sub1"
+msgstr "請求書一覧"
+msgid "menu7sub2"
+msgstr "請求書作成"
+msgid "menu7sub3"
+msgstr "請求書発行"
+
+
+msgid "billNumber"
+msgstr "請求書番号"
+msgid "senddate"
+msgstr "発行日"
+msgid "kenmei"
+msgstr "件名"
+msgid "billMoney"
+msgstr "請求金額"
+msgid "nouhinsyo"
+msgstr "納品書"
+msgid "seikyusyo"
+msgstr "請求書"
+msgid "sakujyo"
+msgstr "削除"
+msgid "menu7CreateMessage"
+msgstr "請求書の宛先を選択してください。"
+msgid "menu7CreateMessage2"
+msgstr "検査日時を選択してください。"
+msgid "menu7CreateMessage3"
+msgstr "パートナー企業を選択してください。"
+msgid "menu7CreateMessage4"
+msgstr "パートナー企業"
+msgid "menu7CreateMessage5"
+msgstr "顧客企業名"
+msgid "menu7CreateMessage6"
+msgstr "検査名"
+
+msgid "menu7CreateMessage4Text"
+msgstr "検索対象のパートナー企業名を入力してください。"
+msgid "menu7CreateMessage5Text"
+msgstr "検索対象の顧客企業名を入力してください。"
+msgid "menu7CreateMessage6Text"
+msgstr "検索対象の検査名を入力してください。"
+
+
+
+msgid "kigyouate"
+msgstr "企業宛"
+msgid "kokyakuate"
+msgstr "顧客宛"
+
+msgid "kensakujyo"
+msgstr "件の削除"
+msgid "kentuika"
+msgstr "件の追加"
+
+
+msgid "kensamei"
+msgstr "検査名"
+
+msgid "kata"
+msgstr "型"
+
+msgid "kino"
+msgstr "機能"
+
+msgid "csvdownload"
+msgstr "CSVダウンロード"
+
+msgid "customerlist"
+msgstr "顧客一覧"
+
+msgid "kensasyubetsu"
+msgstr "検査種別"
+
+
+msgid "pmenu1"
+msgstr "企業情報変更"
+
+msgid "pmenu2"
+msgstr "新規顧客登録"
+msgid "pmenu2Edit"
+msgstr "顧客更新"
+
+
+msgid "pmenu3"
+msgstr "ダウンロード"
+
+msgid "pmenu4"
+msgstr "PDFロゴ画像登録"
+
+msgid "pmenu5"
+msgstr "企業登録フォーム"
+
+msgid "pmenu6"
+msgstr "検査申込料金"
+
+msgid "pmenu7"
+msgstr "検査申込履歴"
+
+msgid "pmenu8"
+msgstr "実施件数確認"
+
+
+msgid "tempfilelist"
+msgstr "添付ファイル一覧"
+
+msgid "filetemp"
+msgstr "ファイル添付"
+
+
+msgid "filename"
+msgstr "ファイル名"
+
+msgid "checkdelete"
+msgstr "チェックした項目を削除"
+
+
+msgid "size"
+msgstr "サイズ"
+
+msgid "TempDeleteMsg"
+msgstr "添付ファイルの削除を行います。よろしいですか？"
+
+msgid "tempFileOK"
+msgstr "添付ファイルの削除を行いました。"
+
+msgid "tempFileNG"
+msgstr "添付ファイルの削除を失敗しました。"
+
+msgid "TempDeleteAllMsg"
+msgstr "添付ファイルの一括削除を行います。よろしいですか？"
+
+msgid "fileupload"
+msgstr "ファイルアップロード"
+
+msgid "tempfileuploadOK"
+msgstr "ファイルアップロードに成功しました。"
+
+msgid "tempfileuploadNG"
+msgstr "ファイルアップロードに失敗しました。"
+
+msgid "customerImage"
+msgstr "顧客画面"
+
+
+msgid "partnerEditConfirm"
+msgstr "企業情報変更の更新を行います。よろしいですか？"
+
+
+msgid "jyukensyakeiko"
+msgstr "受検者傾向確認機能"
+
+
+msgid "csvupload"
+msgstr "CSVアップロードボタン"
+
+msgid "canuse"
+msgstr "利用する"
+
+msgid "cantuse"
+msgstr "利用しない"
+
+msgid "pdfbutton"
+msgstr "PDFボタン"
+
+
+msgid "pdfmasterstatus"
+msgstr "PDF重みマスタ"
+
+msgid "excelmasterstatus"
+msgstr "エクセル重みマスタ"
+
+msgid "cstestbtn"
+msgstr "検査申込みボタン"
+
+
+msgid "ssltype"
+msgstr "SSL設定"
+
+msgid "logoImage"
+msgstr "ロゴ画像"
+
+msgid "logoImageText"
+msgstr "※幅240ピクセル、高さ80ピクセル、ファイルサイズ10kbyte程度"
+
+
+msgid "modoru"
+msgstr "戻る"
+
+msgid "privacy"
+msgstr "プライバシーポリシー<br />表示企業名"
+
+msgid "privacytext"
+msgstr "企業名が利用されます"
+
+msgid "privacytextdefault"
+msgstr "株式会社イノベーションゲート"
+
+msgid "privacyexplain"
+msgstr "※プライバシーポリシーで使用する企業名の設定をします。"
+
+msgid "busymei"
+msgstr "部署名"
+
+msgid "renrakusaki1"
+msgstr "連絡先1"
+
+msgid "renrakusaki2"
+msgstr "連絡先2"
+
+msgid "customerRegistConfirm"
+msgstr "新規顧客登録を行います。よろしいですか？"
+
+msgid "customerRegistOK"
+msgstr "新規顧客登録が成功しました"
+
+msgid "customerRegistNG"
+msgstr "新規顧客登録が失敗しました"
+
+msgid "pdflogodelete"
+msgstr "PDFロゴ画像削除"
+
+
+
+msgid "pdflogoRegistOK"
+msgstr "PDFロゴ画像登録が成功しました。"
+
+msgid "pdflogoRegistNG"
+msgstr "PDFロゴ画像登録が失敗しました。"
+
+
+msgid "pdflogoError1"
+msgstr "PDFロゴ画像登録が選択されていません"
+
+msgid "pdflogoError2"
+msgstr "画像のみ登録可能になります"
+
+msgid "pdflogodeleteText"
+msgstr "PDFロゴ画像の削除を行います、よろしいですか？"
+
+msgid "pdflogoDeleteOK"
+msgstr "PDFロゴ画像の削除を行いました"
+
+
+
+msgid "pdflogoText1"
+msgstr "▼登録済みPDF"
+
+
+msgid "pmenu5Text"
+msgstr "企業登録フォームより、登録を行った顧客に対し、貴社側で認証を行うか否かの設定を行います。"
+
+
+msgid "pmenu5Title2"
+msgstr "マニュアルアップロード"
+
+msgid "pmenu5Text2"
+msgstr "メールに添付するマニュアルをアップロードしてください。"
+
+msgid "pmenu5Text3"
+msgstr "PDFファイルのみアップロードをお願いします。"
+
+
+msgid "pmenu5Text4"
+msgstr "検査システムの説明用マニュアル"
+
+
+msgid "pmenu5Text5"
+msgstr "検査結果の説明用マニュアル"
+
+msgid "pmenu5Text6"
+msgstr "検査結果のマニュアル設定登録"
+
+msgid "pmenu5pdf1"
+msgstr "検査システムの説明用マニュアルダウンロード"
+
+msgid "pmenu5pdf2"
+msgstr "検査結果の説明用マニュアルダウンロード"
+
+
+msgid "pmenu5Text7"
+msgstr "検査結果の説明用マニュアル送信日指定"
+
+msgid "send_type1"
+msgstr "指定なし"
+
+msgid "send_type2"
+msgstr "3日後配信"
+
+
+msgid "pmenu5Text8"
+msgstr "重み付けを行う"
+
+msgid "heikin"
+msgstr "平均点"
+
+msgid "hyojyunhensa"
+msgstr "標準偏差値"
+
+msgid "pmenu5Text9"
+msgstr "貴社専用の企業登録フォームが表示されるURL・リンクタグが表示されます。Ａ・Ｂどちらか一方をご利用ください。"
+
+msgid "pmenu5Text10"
+msgstr "下記ＵＲＬより、貴社専用の企業登録フォームが表示されます。"
+
+msgid "pmenu5Text11"
+msgstr "企業登録フォームリンク"
+
+
+msgid "pmenu5Text12"
+msgstr "企業登録フォームリンクタグを生成します。貴社のホームページ等で利用します。"
+
+
+msgid "pmenu5Text13"
+msgstr "検査結果システム/マニュアルの登録を行います。よろしいですか？"
+
+msgid "manual_registOK"
+msgstr "検査結果のマニュアル設定を行いました。"
+
+msgid "manual_registNG"
+msgstr "検査結果のマニュアル設定に失敗しました。"
+
+
+msgid "manual_uploadNG"
+msgstr "ファイルのアップロードに失敗しました。"
+
+msgid "syokika"
+msgstr "初期化"
+
+msgid "deletemanualconf"
+msgstr "登録マニュアルの削除を行います。よろしいですか?"
+
+msgid "manual_initialOK"
+msgstr "登録マニュアルの初期化に成功しました。"
+
+msgid "manual_initialNG"
+msgstr "登録マニュアルの初期化に失敗しました。"
+
+
+
+msgid "weight_registconf"
+msgstr "重み付けの登録を行います。よろしいですか?"
+
+msgid "weight_registOK"
+msgstr "重み付けの登録に成功しました。"
+
+msgid "weight_registNG"
+msgstr "重み付けの登録に失敗しました。"
+
+
+msgid "pmenu6th1"
+msgstr "利用"
+
+msgid "pmenu6th2"
+msgstr "検査型"
+
+msgid "pmenu6th3"
+msgstr "表示名"
+
+msgid "pmenu6th4"
+msgstr "金額(結果PDF込/税抜)"
+
+msgid "pmenu6_registConf"
+msgstr "検査申込料金の登録を行います。よろしいですか?"
+
+
+msgid "pmenu6Text1"
+msgstr "チェックしているデータが有効となります。"
+
+msgid "pmenu6_registOK"
+msgstr "検査申込料金データ更新に成功しました。"
+
+msgid "pmenu6_registNG"
+msgstr "検査申込料金データ更新に失敗しました。"
+
+
+
+
+
+msgid "customerEditConfirm"
+msgstr "顧客更新を行います。よろしいですか？"
+
+msgid "customerEditOK"
+msgstr "顧客更新が成功しました"
+
+msgid "customerEditNG"
+msgstr "顧客更新が失敗しました"
+
+
+msgid "logodelete"
+msgstr "ロゴ画像削除"
+
+msgid "sakujyoText"
+msgstr "顧客データの削除を行います。よろしいですか?"
+
+msgid "partnerDeleteOK"
+msgstr "顧客データの削除に成功しました。"
+
+msgid "partnerDeleteNG"
+msgstr "顧客データの削除に失敗しました。"
+
+msgid "examlist"
+msgstr "検査一覧"
+
+msgid "menu10sub1"
+msgstr "お知らせ情報一覧"
+
+msgid "menu10sub2"
+msgstr "お知らせ情報登録"
+
+msgid "menu10sub3"
+msgstr "お知らせ情報更新"
+
+msgid "menu10sub4"
+msgstr "お知らせ情報詳細"
+
+msgid "display_period"
+msgstr "表示期間"
+
+msgid "display_partner"
+msgstr "通知先"
+
+msgid "display_area"
+msgstr "通知範囲"
+
+msgid "detaile"
+msgstr "詳細"
+
+msgid "all"
+msgstr "全体"
+
+msgid "all_partner"
+msgstr "全パートナー"
+
+msgid "client"
+msgstr "顧客"
+
+msgid "disp_area_setting"
+msgstr "表示範囲設定"
+
+msgid "select"
+msgstr "選択"
+
+msgid "msg_please_select"
+msgstr "パートナーを選択してください"
+
+msgid "partner_regist"
+msgstr "パートナーを登録"
+
+msgid "partner_select"
+msgstr "パートナー選択"
+
+msgid "partner_only"
+msgstr "パートナーのみ"
+
+msgid "client_only"
+msgstr "顧客のみ"
+
+msgid "partner_and_client"
+msgstr "パートナー及び顧客"
+
+msgid "msg_selected_count"
+msgstr " 企業選択中"
+
+msgid "cancel"
+msgstr "キャンセル"
+
+msgid "kidoku"
+msgstr "既読情報"
+
+msgid "message"
+msgstr "メッセージ"
+
+msgid "errmsg_title_empty"
+msgstr "件名を入力してください"
+
+msgid "errmsg_temp_file_size"
+msgstr "添付ファイルのサイズが大きすぎます。"
+
+msgid "msg_info_regist_OK"
+msgstr "お知らせ情報の登録に成功しました"
+
+msgid "msg_info_regist_NG"
+msgstr "お知らせ情報の登録に失敗しました"
+
+msgid "errmsg_date1_empty"
+msgstr "表示開始日を入力してください"
+
+msgid "errmsg_date2_empty"
+msgstr "表示終了日を入力してください"
+
+msgid "msg_delete_config"
+msgstr "データを削除します。よろしいですか？"
+
+msgid "msg_delete_OK"
+msgstr "データを削除しました"
+
+msgid "msg_delete_NG"
+msgstr "データの削除に失敗しました"
+
+msgid "hakkou"
+msgstr "発行者数"
+
+msgid "mijyuken"
+msgstr "未受検者数"
+

@@ -1,0 +1,47 @@
+msgid "super_user"
+msgstr "スーパーユーザー"
+
+msgid "id"
+msgstr "ID"
+
+msgid "password"
+msgstr "パスワード"
+
+msgid "tantousya_shimei"
+msgstr "担当者氏名"
+
+msgid "tantousya_email"
+msgstr "担当者メールアドレス"
+
+msgid "general_user"
+msgstr "一般ユーザー"
+
+msgid "shimei_note"
+msgstr "※ 氏名の間に空白を入力してください。例） 鈴木　太郎"
+
+msgid "register"
+msgstr "登録"
+
+msgid "userUpdateOK"
+msgstr "企業情報の更新に成功しました。"
+
+msgid "userUpdateNG"
+msgstr "企業情報の更新に失敗しました。"
+
+msgid "kokyakukigyoumei"
+msgstr "顧客企業名"
+
+msgid "shimei"
+msgstr "氏名"
+
+msgid "jukenbi"
+msgstr "受検日"
+
+msgid "search"
+msgstr "検索"
+
+msgid "kensamei"
+msgstr "検査名"
+
+msgid "partnerkaisya"
+msgstr "パートナー会社"

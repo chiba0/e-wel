@@ -1,0 +1,490 @@
+msgid "cmenu1"
+msgstr "検査登録"
+msgid "cmenu2"
+msgstr "企業情報変更"
+msgid "cmenu3"
+msgstr "ダウンロード"
+msgid "cmenu4"
+msgstr "ROWデータ一括登録"
+msgid "cmenu5"
+msgstr "重み付けマスタ登録"
+msgid "cmenu6"
+msgstr "受検者傾向確認"
+msgid "cmenu6edit"
+msgstr "受検者傾向更新"
+
+msgid "cmenu7"
+msgstr "検査申込"
+
+msgid "ctab1"
+msgstr "検査一覧"
+
+msgid "ctab2"
+msgstr "受検者一覧"
+
+
+msgid "ctable1"
+msgstr "検査名"
+msgid "ctable2"
+msgstr "検査実施期間"
+msgid "ctable3"
+msgstr "受検者数"
+msgid "ctable4"
+msgstr "処理数"
+msgid "ctable5"
+msgstr "残数"
+msgid "ctable6"
+msgstr "受検状況"
+msgid "ctable7"
+msgstr "機能"
+msgid "ctable8"
+msgstr "メール<br />お知らせ機能"
+msgid "ctable9"
+msgstr "PDFログ"
+
+msgid "usetest"
+msgstr "利用検査名"
+
+msgid "fin"
+msgstr "終了"
+
+msgid "enable"
+msgstr "利用中"
+
+
+msgid "cbutton1"
+msgstr "ID&QRｺｰﾄﾞ"
+msgid "cbutton2"
+msgstr "追加更新"
+msgid "cbutton3"
+msgstr "削除"
+
+msgid "clink1"
+msgstr "表示中"
+msgid "clink2"
+msgstr "非表示"
+
+msgid "on"
+msgstr "有効中"
+msgid "off"
+msgstr "無効中"
+
+msgid "name"
+msgstr "氏名"
+msgid "examdate"
+msgstr "受検日"
+
+
+msgid "clist1"
+msgstr "番号"
+msgid "clist2"
+msgstr "ID"
+msgid "clist3"
+msgstr "氏名"
+msgid "clist4"
+msgstr "ふりがな"
+msgid "clist5"
+msgstr "生年月日"
+msgid "clist6"
+msgstr "検査名"
+msgid "clist7"
+msgstr "検査型"
+msgid "clist8"
+msgstr "受検日"
+
+
+
+msgid "sendmailmessage"
+msgstr "メールお知らせ機能変更を行いました。"
+msgid "pdflogstatusmessage"
+msgstr "PDFログ機能変更を行いました。"
+
+msgid "kensasu"
+msgstr "検査数"
+
+msgid "ken"
+msgstr "件"
+
+
+msgid "customerreg3"
+msgstr "顧客企業名"
+msgid "customerreg4"
+msgstr "検査名"
+msgid "customerreg5"
+msgstr "受検者数"
+msgid "customerreg6"
+msgstr "メール配信受検者残数"
+msgid "customerZanmail"
+msgstr "残数（未受検者）が指定の人数以下になった際に担当者にメールが配信されます。未指定の場合は0または、空欄にしてください。"
+
+msgid "customerreg7"
+msgstr "検査システム選択"
+msgid "customerreg8"
+msgstr "検査言語選択"
+msgid "customerreg9"
+msgstr "検査実施期間"
+msgid "customerreg10"
+msgstr "検査結果画面"
+msgid "customerreg11"
+msgstr "ID一覧"
+
+msgid "customerResultDispON"
+msgstr "表示する"
+msgid "customerResultDispOFF"
+msgstr "表示しない"
+
+
+msgid "customerreg11"
+msgstr "事前環境チェックの有無"
+
+msgid "customerJudgeDispON"
+msgstr "判定する"
+msgid "customerJudgeDispOFF"
+msgstr "判定しない"
+
+
+
+msgid "customerreg12"
+msgstr "強みアンケート利用"
+
+msgid "customerEnqDispON"
+msgstr "利用する"
+msgid "customerEnqDispOFF"
+msgstr "利用しない"
+
+
+msgid "customerreg13"
+msgstr "一括ダウンロード設定"
+
+msgid "customerPDFDispON"
+msgstr "設定する"
+msgid "customerPDFDispOFF"
+msgstr "設定しない"
+
+msgid "customerreg14"
+msgstr "推奨ブラウザ説明文"
+
+msgid "customerreg15"
+msgstr "ログイン説明文"
+msgid "customerLoginDispON"
+msgstr "編集する"
+msgid "customerLoginDispOFF"
+msgstr "編集しない"
+msgid "customerLoginExplain1"
+msgstr "ログイン画面で利用される説明文です。"
+msgid "customerLoginExplain2"
+msgstr "空欄の場合は初期状態で表示されます。"
+
+
+msgid "customerreg16"
+msgstr "PDF出力制限"
+
+msgid "customerreg16Text1"
+msgstr "PDF出力に制限を設ける場合は下記を選択してください。"
+
+msgid "customerreg16Text2"
+msgstr "PDF出力期間を設定する"
+
+msgid "customerreg16Text3"
+msgstr "PDF出力可能期間"
+
+msgid "customerreg16Text4"
+msgstr "※選択された場合は、該当期間のみPDFボタンが表示されます。"
+
+msgid "customerreg16Text5"
+msgstr "PDF出力人数を設定する"
+
+msgid "customerreg16Text6"
+msgstr "PDF出力制限数"
+
+
+msgid "customerreg16use"
+msgstr "利用する"
+msgid "customerreg16no"
+msgstr "利用しない"
+
+msgid "customerreg17"
+msgstr "受検登録数"
+msgid "customerreg18"
+msgstr "未受検者数"
+msgid "customerreg19"
+msgstr "受検者数変更"
+
+msgid "add_type"
+msgstr "名、追加処理を行います"
+msgid "delete_type"
+msgstr "名、削除処理を行います"
+
+msgid "backtext"
+msgstr "検査一覧ページに移動します。よろしいですか？"
+
+
+msgid "mei"
+msgstr "名"
+
+msgid "customerreg16Text7"
+msgstr "PDF出力形式選択"
+
+msgid "customerreg16Text8"
+msgstr "検査情報詳細設定"
+
+msgid "customerreg16Text9"
+msgstr "上記の検査に属する検査種別を選択してください。"
+
+msgid "customerreg16Text10"
+msgstr "検査によっては、検査に必要な情報入力画面が表示されます。"
+
+
+
+msgid "misentaku"
+msgstr "未選択"
+
+msgid "jyukensyasu"
+msgstr "受検者数"
+
+msgid "threeElement"
+msgstr "３要素を用いるストレス共生力算出"
+
+msgid "omomituke"
+msgstr "重付け"
+
+msgid "taisyokensa"
+msgstr "対象検査"
+
+msgid "weightuse"
+msgstr "重付けを利用する"
+
+msgid "weightnotuse"
+msgstr "重付けを利用しない"
+
+msgid "bajMessage1"
+msgstr "重み付けを設定する場合は、各々数値を入力してください。入力する場合は、半角数字で入力してください。"
+msgid "bajMessage2"
+msgstr "既存の重み付けマスタ、csvファイルから取得することも可能です。"
+msgid "bajMessage3"
+msgstr "また、重み取得後、編集も可能です。"
+
+
+msgid "bjweight1"
+msgstr "重みマスタからデータ取得"
+
+msgid "bjweight2"
+msgstr "CSVファイルからデータ取得"
+
+
+msgid "average"
+msgstr "平均点"
+
+msgid "deviate"
+msgstr "標準偏差値"
+
+msgid "template"
+msgstr "テンプレート"
+
+msgid "time"
+msgstr "受検時間設定"
+
+msgid "vf"
+msgstr "検査対象者入力"
+
+msgid "vf_message"
+msgstr "ガイダンスで表示される検査対象者を入力してください。未入力の場合は社員（または契約社員等）と表示されます。"
+
+
+msgid "vf_errmsg1"
+msgstr "検査名を入力してください。"
+
+msgid "vf_errmsg2"
+msgstr "受検者数を入力してください。"
+
+msgid "vf_errmsg3"
+msgstr "受検者数は半角数値で入力してください。"
+
+msgid "vf_errmsg4"
+msgstr "メール配信受検者残数は半角数値で入力してください。"
+
+
+msgid "customerResultDispMSG"
+msgstr "行動価値検査のみ対象"
+
+msgid "pdf_slice_msg"
+msgstr "受検者全員の検査結果を一括でダウンロードします。"
+
+msgid "vf_errmsg5"
+msgstr "検査実施期間を入力してください。開始日"
+
+msgid "vf_errmsg6"
+msgstr "検査実施期間を入力してください。終了日"
+
+msgid "wt_tab1"
+msgstr "重み一覧"
+
+msgid "wt_tab2"
+msgstr "新規登録"
+
+msgid "wt_csv"
+msgstr "csvファイルから登録"
+
+msgid "wt_temp"
+msgstr "テンプレートファイル取得"
+
+msgid "wt_tempdownload"
+msgstr "テンプレートファイルダウンロード"
+
+
+msgid "wt_name"
+msgstr "重みマスター名"
+
+msgid "wt_conf"
+msgstr "上記の内容で登録を行います。よろしいですか？"
+
+msgid "wtErrMSG1"
+msgstr "マスタ名が入力されていません。"
+
+msgid "wt_error"
+msgstr "重み付けの登録に失敗しました。"
+
+
+msgid "wt_success"
+msgstr "重み付けの登録に成功しました。"
+
+msgid "wt_master_name"
+msgstr "重み付けマスタ名"
+msgid "wt_master_date"
+msgstr "作成日"
+msgid "wt_master_status"
+msgstr "機能"
+
+msgid "wt_delete"
+msgstr "データの削除に成功しました"
+
+msgid "wt_delete_conf"
+msgstr "データの削除を行います。よろしいですか？"
+
+msgid "vf_errmsg7"
+msgstr "検査情報詳細設定から検査を選択してください。"
+
+msgid "vf_errmsg8"
+msgstr "ライセンス数が不足しています。"
+
+msgid "vf_errmsg9"
+msgstr "受検者数変更は半角数値で入力してください。"
+
+msgid "vf_success"
+msgstr "検査登録に成功しました。"
+
+msgid "registtext"
+msgstr "入力した内容で登録を行います。よろしいですか？"
+
+msgid "edittext"
+msgstr "入力した内容で更新を行います。よろしいですか？"
+
+msgid "id_search"
+msgstr "ID検索"
+
+msgid "name_search"
+msgstr "氏名検索"
+
+msgid "kana_search"
+msgstr "フリガナ"
+
+msgid "start_search"
+msgstr "受検開始日"
+
+msgid "end_search"
+msgstr "受検終了日"
+
+msgid "inspection"
+msgstr "受検区分(新卒/中途)"
+
+msgid "exam_year"
+msgstr "採用年度"
+
+msgid "testname"
+msgstr "検査名"
+
+
+msgid "cmenu6_birthday"
+msgstr "生年月日(受検日年齢)"
+
+msgid "gender"
+msgstr "性別"
+
+msgid "memo"
+msgstr "メモ"
+
+msgid "memo1"
+msgstr "メモ1"
+
+msgid "memo2"
+msgstr "メモ2"
+
+msgid "judge"
+msgstr "面接評価"
+
+msgid "pass"
+msgstr "採用合否"
+
+msgid "enterdate"
+msgstr "入社日"
+
+msgid "retiredate"
+msgstr "退職日"
+
+msgid "retirereason"
+msgstr "退職理由"
+
+msgid "edit"
+msgstr "更新"
+
+
+msgid "cmenu6edittext"
+msgstr "受検者傾向更新を行いました。"
+
+msgid "dlist1"
+msgstr "合否"
+
+
+msgid "dbaj1"
+msgstr "ステータス"
+msgid "dbaj2"
+msgstr "行動価値適合度"
+msgid "dbaj3"
+msgstr "ストレス共生レベル"
+
+msgid "examupdate"
+msgstr "受検情報更新"
+
+msgid "sei"
+msgstr "姓"
+
+msgid "birth"
+msgstr "生年月日"
+
+
+msgid "detailEditErrorMsg1"
+msgstr "姓が入力されていません"
+
+msgid "detailEditErrorMsg2"
+msgstr "名が入力されていません"
+
+msgid "detailEditErrorMsg3"
+msgstr "フリガナ姓が入力されていません"
+
+msgid "detailEditErrorMsg4"
+msgstr "フリガナ名が入力されていません"
+
+msgid "detailEditErrorMsg5"
+msgstr "生年月日に誤りがあります"
+
+msgid "detailEditErrorMsg6"
+msgstr "性別を選択してください"
+
+msgid "detailEditErrorMsg7"
+msgstr "合否を選択してください"
+
+msgid "detailEditErrorSuccess"
+msgstr "受検情報更新を行いました"
+
+msgid "examterm"
+msgstr "受検期間"

@@ -1,0 +1,47 @@
+msgid "super_user"
+msgstr "超级用户"
+
+msgid "id"
+msgstr "ID"
+
+msgid "password"
+msgstr "密码"
+
+msgid "tantousya_shimei"
+msgstr "负责人姓名"
+
+msgid "tantousya_email"
+msgstr "负责人邮件地址"
+
+msgid "general_user"
+msgstr "一般用户"
+
+msgid "shimei_note"
+msgstr "※ 请在姓名之间输入空白。例子)铃木太郎"
+
+msgid "register"
+msgstr "登录"
+
+msgid "userUpdateOK"
+msgstr "企业信息的更新方面成功了。"
+
+msgid "userUpdateNG"
+msgstr "企业信息的更新方面失败了。"
+
+msgid "kokyakukigyoumei"
+msgstr "客户公司名称"
+
+msgid "shimei"
+msgstr "姓名"
+
+msgid "jukenbi"
+msgstr "接受检查日"
+
+msgid "search"
+msgstr "搜寻"
+
+msgid "kensamei"
+msgstr "检验名称"
+
+msgid "partnerkaisya"
+msgstr "合作公司"

@@ -1,0 +1,494 @@
+msgid "cmenu1"
+msgstr "检验登记"
+msgid "cmenu2"
+msgstr "更改公司信息"
+msgid "cmenu3"
+msgstr "资料下载"
+msgid "cmenu4"
+msgstr "批量注册ROW数据"
+msgid "cmenu5"
+msgstr "加权主注册"
+msgid "cmenu6"
+msgstr "确认应试者倾向"
+msgid "cmenu6edit"
+msgstr "候选趋势更新"
+msgid "cmenu7"
+msgstr "申请检验"
+
+
+msgid "ctab1"
+msgstr "检查清单"
+
+msgid "ctab2"
+msgstr "考生名单"
+
+
+msgid "ctable1"
+msgstr "检验名称"
+msgid "ctable2"
+msgstr "検査実施期間"
+msgid "ctable3"
+msgstr "检验期"
+msgid "ctable4"
+msgstr "工序数"
+msgid "ctable5"
+msgstr "剩余号码"
+msgid "ctable6"
+msgstr "考试状态"
+msgid "ctable7"
+msgstr "功能介绍"
+msgid "ctable8"
+msgstr "电子邮件通知功能"
+msgid "ctable9"
+msgstr "PDF日志"
+
+msgid "usetest"
+msgstr "使用检查名称"
+
+
+msgid "fin"
+msgstr "结束"
+
+msgid "enable"
+msgstr "正在使用"
+
+msgid "cbutton1"
+msgstr "身份证二维码"
+msgid "cbutton2"
+msgstr "附加更新"
+msgid "cbutton3"
+msgstr "删除"
+
+msgid "clink1"
+msgstr "显示中"
+msgid "clink2"
+msgstr "隐"
+
+
+msgid "on"
+msgstr "活性"
+msgid "off"
+msgstr "残障人士"
+
+
+msgid "name"
+msgstr "全名"
+msgid "examdate"
+msgstr "考试日期"
+
+
+msgid "clist1"
+msgstr "数"
+msgid "clist2"
+msgstr "ID"
+msgid "clist3"
+msgstr "全名"
+msgid "clist4"
+msgstr "藤假名"
+msgid "clist5"
+msgstr "生日"
+msgid "clist6"
+msgstr "检验名称"
+msgid "clist7"
+msgstr "检验类型"
+msgid "clist8"
+msgstr "考试日期"
+
+
+msgid "sendmailmessage"
+msgstr "电子邮件通知功能已更改。"
+msgid "pdflogstatusmessage"
+msgstr "PDF日志功能已更改。"
+
+msgid "kensasu"
+msgstr "检查次数"
+
+msgid "ken"
+msgstr "案件"
+
+
+msgid "customerreg3"
+msgstr "客户公司名称"
+msgid "customerreg4"
+msgstr "检验名称"
+msgid "customerreg5"
+msgstr "考生人数"
+msgid "customerreg6"
+msgstr "电子邮件收件人的剩余数量"
+msgid "customerZanmail"
+msgstr "当剩余数量（未试用）降至指定数量以下时，将向负责人发送电子邮件。如果未指定，则保留0或留空"
+
+msgid "customerreg7"
+msgstr "检查系统选择"
+msgid "customerreg8"
+msgstr "检验语言选择"
+msgid "customerreg9"
+msgstr "检验期"
+msgid "customerreg10"
+msgstr "检查结果画面"
+msgid "customerreg11"
+msgstr "身份证清单"
+
+
+msgid "customerResultDispON"
+msgstr "显示检查结果画面"
+msgid "customerResultDispOFF"
+msgstr "不显示检查结果画面"
+
+msgid "customerreg11"
+msgstr "事先进行环境检查"
+
+msgid "customerJudgeDispON"
+msgstr "法官"
+msgid "customerJudgeDispOFF"
+msgstr "不要判断"
+
+
+msgid "customerreg12"
+msgstr "强度调查使用"
+
+msgid "customerEnqDispON"
+msgstr "使用"
+msgid "customerEnqDispOFF"
+msgstr "不使用"
+
+
+msgid "customerreg13"
+msgstr "批量下载设置"
+
+msgid "customerPDFDispON"
+msgstr "组"
+msgid "customerPDFDispOFF"
+msgstr "没有设置"
+
+msgid "customerreg14"
+msgstr "推荐的浏览器说明"
+
+
+
+msgid "customerreg15"
+msgstr "登录说明"
+msgid "customerLoginDispON"
+msgstr "编辑"
+msgid "customerLoginDispOFF"
+msgstr "不要编辑"
+msgid "customerLoginExplain1"
+msgstr "登录屏幕上使用的描述。"
+msgid "customerLoginExplain2"
+msgstr "如果为空白，它将以初始状态显示。"
+
+
+msgid "customerreg16"
+msgstr "PDF输出限制"
+
+msgid "customerreg16Text1"
+msgstr "如果要限制PDF输出，请选择以下内容。"
+
+msgid "customerreg16Text2"
+msgstr "设置PDF输出时间"
+
+
+msgid "customerreg16Text3"
+msgstr "PDF输出期间"
+
+msgid "customerreg16Text4"
+msgstr "※如果选择，PDF按钮将仅在相关期间显示。"
+
+msgid "customerreg16Text5"
+msgstr "设置PDF输出人数"
+
+msgid "customerreg16Text6"
+msgstr "PDF输出限制"
+
+
+
+msgid "customerreg16use"
+msgstr "使用"
+msgid "customerreg16no"
+msgstr "不使用"
+
+msgid "customerreg17"
+msgstr "考试注册数"
+msgid "customerreg18"
+msgstr "未经审查的号码"
+msgid "customerreg19"
+msgstr "更改考生人数"
+
+msgid "add_type"
+msgstr "执行其他处理"
+msgid "delete_type"
+msgstr "删除过程"
+
+msgid "backtext"
+msgstr "您将被带到检查清单页面。可以吗"
+
+
+msgid "mei"
+msgstr "人"
+
+msgid "customerreg16Text7"
+msgstr "PDF输出格式选择"
+
+msgid "customerreg16Text8"
+msgstr "详细的检查信息设置"
+
+
+msgid "customerreg16Text9"
+msgstr "请选择属于上述检查的检查类型。"
+
+msgid "customerreg16Text10"
+msgstr "根据检查情况，可能会显示检查所需的信息输入屏幕。"
+
+msgid "misentaku"
+msgstr "未选择"
+
+msgid "jyukensyasu"
+msgstr "考生人数"
+
+msgid "threeElement"
+msgstr "使用三个因素计算应力共生"
+
+msgid "omomituke"
+msgstr "权重"
+
+msgid "taisyokensa"
+msgstr "目标检查"
+
+
+msgid "weightuse"
+msgstr "使用权重"
+
+msgid "weightnotuse"
+msgstr "不要使用加权"
+
+msgid "bajMessage1"
+msgstr "设置权重时，输入每个值。输入时，请输入单字节数字。"
+msgid "bajMessage2"
+msgstr "也可以从现有的加权母版或csv文件中获取它。"
+msgid "bajMessage3"
+msgstr "获取权重后，您也可以编辑权重。"
+
+msgid "bjweight1"
+msgstr "从体重计获取数据"
+
+msgid "bjweight2"
+msgstr "从CSV文件获取数据"
+
+msgid "average"
+msgstr "平均分"
+
+msgid "deviate"
+msgstr "标准偏差值"
+
+msgid "template"
+msgstr "模板"
+
+msgid "time"
+msgstr "考试时间设定"
+
+
+
+msgid "vf"
+msgstr "检验对象输入"
+
+msgid "vf_message"
+msgstr "请输入指南中显示的待检查人员。如果不输入，它将显示为员工（或合同员工）。"
+
+msgid "vf_errmsg1"
+msgstr "请输入测试名称。"
+
+msgid "vf_errmsg2"
+msgstr "请输入考生人数。"
+
+msgid "vf_errmsg3"
+msgstr "请以半角字符输入考生人数。"
+
+msgid "vf_errmsg4"
+msgstr "用半角字符输入电子邮件传递测试人员的剩余数量"
+
+msgid "customerResultDispMSG"
+msgstr "仅适用于行動価値検査"
+
+msgid "pdf_slice_msg"
+msgstr "所有应试者的所有测试结果将一起下载。"
+
+msgid "vf_errmsg5"
+msgstr "请输入检查期限。開始日"
+
+msgid "vf_errmsg6"
+msgstr "请输入检查期限。終了日"
+
+msgid "wt_tab1"
+msgstr "重量清单"
+
+msgid "wt_tab2"
+msgstr "注册"
+
+msgid "wt_csv"
+msgstr "从csv文件注册"
+
+
+msgid "wt_temp"
+msgstr "获取模板文件"
+
+msgid "wt_tempdownload"
+msgstr "下载模板文件"
+
+msgid "wt_name"
+msgstr "重点主人姓名"
+
+msgid "wt_conf"
+msgstr "注册以上内容。可以吗"
+
+msgid "wtErrMSG1"
+msgstr "尚未输入主名称。"
+
+msgid "wt_error"
+msgstr "重量注册失败。"
+
+msgid "wt_success"
+msgstr "砝码已成功注册。"
+
+msgid "wt_master_name"
+msgstr "加权主名称"
+msgid "wt_master_date"
+msgstr "创建日期"
+msgid "wt_master_status"
+msgstr "功能"
+
+msgid "wt_delete"
+msgstr "数据删除成功"
+
+msgid "wt_delete_conf"
+msgstr "数据将被删除。可以吗"
+
+msgid "vf_errmsg7"
+msgstr "从详细的检查信息设置中选择检查。"
+
+msgid "vf_errmsg8"
+msgstr "许可证不足。"
+
+msgid "vf_errmsg9"
+msgstr "要更改考生人数，请输入半角数字。
+
+
+msgid "vf_success"
+msgstr "检验注册成功。"
+
+
+msgid "registtext"
+msgstr "用输入的信息注册。可以吗"
+
+msgid "edittext"
+msgstr "用输入的内容更新。可以吗"
+
+msgid "id_search"
+msgstr "ID搜索"
+
+msgid "name_search"
+msgstr "全名搜索"
+
+msgid "kana_search"
+msgstr "语音的"
+
+msgid "start_search"
+msgstr "考试开始日期"
+
+msgid "end_search"
+msgstr "考试结束日期"
+
+msgid "inspection"
+msgstr "考试类别（新毕业生/中途）"
+
+msgid "exam_year"
+msgstr "录用年份"
+
+msgid "testname"
+msgstr "检验名称"
+
+msgid "cmenu6_birthday"
+msgstr "出生日期（检查日期年龄）"
+
+msgid "gender"
+msgstr "性别"
+
+msgid "memo"
+msgstr "注"
+
+msgid "memo1"
+msgstr "注1"
+
+msgid "memo2"
+msgstr "注2"
+
+msgid "judge"
+msgstr "面试评估"
+
+msgid "pass"
+msgstr "接受/拒绝"
+
+msgid "enterdate"
+msgstr "雇用日期"
+
+msgid "retiredate"
+msgstr "退休日期"
+
+msgid "retirereason"
+msgstr "退休原因"
+
+msgid "edit"
+msgstr "更新"
+
+
+msgid "cmenu6edittext"
+msgstr "考生倾向已更新。"
+
+msgid "dlist1"
+msgstr "过关失败"
+
+
+
+msgid "dbaj1"
+msgstr "状态"
+msgid "dbaj2"
+msgstr "行为价值适合度"
+msgid "dbaj3"
+msgstr "压力共生水平"
+
+msgid "examupdate"
+msgstr "更新检查信息"
+
+msgid "sei"
+msgstr "姓"
+
+msgid "birth"
+msgstr "生日"
+
+msgid "detailEditErrorMsg1"
+msgstr "没有输入名字"
+
+msgid "detailEditErrorMsg2"
+msgstr "没有输入名字"
+
+msgid "detailEditErrorMsg3"
+msgstr "未输入语音姓"
+
+msgid "detailEditErrorMsg4"
+msgstr "未输入拼音名称"
+
+msgid "detailEditErrorMsg5"
+msgstr "生年月日に誤りがあります"
+
+
+msgid "detailEditErrorMsg6"
+msgstr "请选择性别"
+
+msgid "detailEditErrorMsg7"
+msgstr "请选择通过/失败"
+
+msgid "detailEditErrorSuccess"
+msgstr "更新检查信息"
+
+msgid "examterm"
+msgstr "考试期间"
+
